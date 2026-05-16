@@ -2,7 +2,7 @@
 
 Web-based Point of Sale (POS) + Inventory Management System untuk cafe, dilengkapi admin panel dan hak akses berbasis role.
 
-🌐 **Live Demo:** [demo-myinventory.arifsiddikm.com](https://demo-myinventory.arifsiddikm.com)
+🌐 **Live Demo:** [demo-mypos.arifsiddikm.com](https://demo-mypos.arifsiddikm.com)
 
 ---
 
