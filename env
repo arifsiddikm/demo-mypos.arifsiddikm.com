@@ -1,10 +1,8 @@
 APP_NAME=MyPOS
 APP_ENV=local
-APP_KEY=base64:mM37y3yxwNBORx8GWtREjZ7VROw5L0/XPzQTiznkfxs=
+APP_KEY=xxx
 APP_DEBUG=true
-APP_URL=http://localhost
-# APP_DEBUG=false
-# APP_URL=https://demo-mypos.arifsiddikm.biz.id
+APP_URL=xxx
 
 APP_LOCALE=en
 APP_FALLBACK_LOCALE=en
@@ -28,9 +26,6 @@ DB_PORT=3306
 DB_DATABASE=mypos
 DB_USERNAME=root
 DB_PASSWORD=
-# DB_DATABASE=xxx
-# DB_USERNAME=xxx
-# DB_PASSWORD=xxx
 
 SESSION_DRIVER=database
 SESSION_LIFETIME=120
